@@ -1,0 +1,1117 @@
+fileFormatVersion: 2
+guid: 06e338dfcf2ff5f4cad4f6178bec423c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 850847312091562589
+    second: _ouseIcons_0
+  - first:
+      213: 4134465138520951447
+    second: _ouseIcons_1
+  - first:
+      213: 1296348287145181103
+    second: _ouseIcons_2
+  - first:
+      213: -5067142141070505036
+    second: _ouseIcons_3
+  - first:
+      213: -8212465190489011928
+    second: _ouseIcons_4
+  - first:
+      213: -8583473008631022857
+    second: _ouseIcons_5
+  - first:
+      213: 8427504399663591129
+    second: _ouseIcons_6
+  - first:
+      213: -4545801051860963012
+    second: _ouseIcons_7
+  - first:
+      213: 1966450370175767862
+    second: _ouseIcons_8
+  - first:
+      213: -2421635769362348322
+    second: _ouseIcons_9
+  - first:
+      213: -5450473251347553063
+    second: _ouseIcons_10
+  - first:
+      213: 7321288971191961106
+    second: _ouseIcons_11
+  - first:
+      213: 8624962516979237703
+    second: _ouseIcons_12
+  - first:
+      213: 411380144510083897
+    second: _ouseIcons_13
+  - first:
+      213: -7317178846765686976
+    second: _ouseIcons_14
+  - first:
+      213: 1709851233025420813
+    second: _ouseIcons_15
+  - first:
+      213: -1455123670906863150
+    second: _ouseIcons_16
+  - first:
+      213: -2693289159909298948
+    second: _ouseIcons_17
+  - first:
+      213: 3541348065545084083
+    second: _ouseIcons_18
+  - first:
+      213: 7010378315706673796
+    second: _ouseIcons_19
+  - first:
+      213: -349211914563984143
+    second: _ouseIcons_20
+  - first:
+      213: 7245876630206688560
+    second: _ouseIcons_21
+  - first:
+      213: 5418786986623227481
+    second: _ouseIcons_22
+  - first:
+      213: -5385732519965088045
+    second: _ouseIcons_23
+  - first:
+      213: 9174163539627714270
+    second: _ouseIcons_24
+  - first:
+      213: -3030639567969655883
+    second: _ouseIcons_25
+  - first:
+      213: -7330879101015644948
+    second: _ouseIcons_26
+  - first:
+      213: 6242594512125195599
+    second: _ouseIcons_27
+  - first:
+      213: -1597005431952073717
+    second: _ouseIcons_28
+  - first:
+      213: -9220966318436046362
+    second: _ouseIcons_29
+  - first:
+      213: -8349143054709523420
+    second: _ouseIcons_30
+  - first:
+      213: -4038254159003935509
+    second: _ouseIcons_31
+  - first:
+      213: -7039525046939903849
+    second: _ouseIcons_32
+  - first:
+      213: 4212533277147173600
+    second: _ouseIcons_33
+  - first:
+      213: 8923280732135388877
+    second: _ouseIcons_34
+  - first:
+      213: -7977451621912758364
+    second: _ouseIcons_35
+  - first:
+      213: 8565241906062851246
+    second: _ouseIcons_36
+  - first:
+      213: 5833943611556322860
+    second: _ouseIcons_37
+  - first:
+      213: 3634746643369659472
+    second: _ouseIcons_38
+  - first:
+      213: 4469487261561687064
+    second: _ouseIcons_39
+  - first:
+      213: 2932569520739567456
+    second: _ouseIcons_40
+  - first:
+      213: 8275321604626604165
+    second: _ouseIcons_41
+  - first:
+      213: -2944858157717671959
+    second: _ouseIcons_42
+  - first:
+      213: 6341471552980278675
+    second: _ouseIcons_43
+  - first:
+      213: 1798387515412686459
+    second: _ouseIcons_44
+  - first:
+      213: -138394507090314306
+    second: _ouseIcons_45
+  - first:
+      213: -5494353956214349068
+    second: _ouseIcons_46
+  - first:
+      213: -698894494192153632
+    second: _ouseIcons_47
+  - first:
+      213: -1098206677488783309
+    second: _ouseIcons_48
+  - first:
+      213: -4017864591676088787
+    second: _ouseIcons_49
+  - first:
+      213: 1414786762066527281
+    second: _ouseIcons_50
+  - first:
+      213: 7048722135696489494
+    second: _ouseIcons_51
+  - first:
+      213: -8872390909291241017
+    second: _ouseIcons_52
+  - first:
+      213: 8730057585859735099
+    second: _ouseIcons_53
+  - first:
+      213: -8067788150455241569
+    second: _ouseIcons_54
+  - first:
+      213: -6249548940688561626
+    second: _ouseIcons_55
+  - first:
+      213: -7162348496234418269
+    second: _ouseIcons_56
+  - first:
+      213: -3403341287457899076
+    second: _ouseIcons_57
+  - first:
+      213: 4937021561648735380
+    second: _ouseIcons_58
+  - first:
+      213: 7408679012255768707
+    second: _ouseIcons_59
+  - first:
+      213: -5154089003407516555
+    second: _ouseIcons_60
+  - first:
+      213: 5160495064575103317
+    second: _ouseIcons_61
+  - first:
+      213: 711066372374180661
+    second: _ouseIcons_62
+  - first:
+      213: 2770520640056357349
+    second: _ouseIcons_63
+  - first:
+      213: 3556916898858965444
+    second: _ouseIcons_64
+  - first:
+      213: -6423035447061377733
+    second: _ouseIcons_65
+  - first:
+      213: 4491769148957751082
+    second: _ouseIcons_66
+  - first:
+      213: -3299804958096004090
+    second: _ouseIcons_67
+  - first:
+      213: 2092161586656414672
+    second: _ouseIcons_68
+  - first:
+      213: -8469475737335342753
+    second: _ouseIcons_69
+  - first:
+      213: -4345892074430992514
+    second: _ouseIcons_70
+  - first:
+      213: 517399218773332292
+    second: _ouseIcons_71
+  - first:
+      213: -1927239538102313442
+    second: _ouseIcons_72
+  - first:
+      213: 5304059520231022007
+    second: _ouseIcons_73
+  - first:
+      213: 1365482986483531894
+    second: _ouseIcons_74
+  - first:
+      213: -6726465555551267843
+    second: _ouseIcons_75
+  - first:
+      213: -2619304215035187176
+    second: _ouseIcons_76
+  - first:
+      213: 653299004707531049
+    second: _ouseIcons_77
+  - first:
+      213: -6219802922395414391
+    second: _ouseIcons_78
+  - first:
+      213: 4718881210089765234
+    second: _ouseIcons_79
+  - first:
+      213: -6871155692723550989
+    second: _ouseIcons_80
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: _ouseIcons_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5240535f11decb00800000000000000
+      internalID: 850847312091562589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _ouseIcons_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a07cd5322906930800000000000000
+      internalID: 4134465138520951447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _ouseIcons_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf797816ed8df110800000000000000
+      internalID: 1296348287145181103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _ouseIcons_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb841fc115eda9b0800000000000000
+      internalID: -5067142141070505036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _ouseIcons_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82944a6bb66770e80800000000000000
+      internalID: -8212465190489011928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _ouseIcons_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7faf46d96c061e880800000000000000
+      internalID: -8583473008631022857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _ouseIcons_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de6df4c99284f470800000000000000
+      internalID: 8427504399663591129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _ouseIcons_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31fa3c27021ae0c0800000000000000
+      internalID: -4545801051860963012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _ouseIcons_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63513c6613c3a4b10800000000000000
+      internalID: 1966450370175767862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _ouseIcons_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed607cf191f946ed0800000000000000
+      internalID: -2421635769362348322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _ouseIcons_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d429aba4770c54b0800000000000000
+      internalID: -5450473251347553063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _ouseIcons_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216c1e987817a9560800000000000000
+      internalID: 7321288971191961106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _ouseIcons_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7434b9156b502b770800000000000000
+      internalID: 8624962516979237703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _ouseIcons_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9332c25df0485b500800000000000000
+      internalID: 411380144510083897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _ouseIcons_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f57806b98247a90800000000000000
+      internalID: -7317178846765686976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _ouseIcons_16
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1855b1bbc5ecbe0800000000000000
+      internalID: -1455123670906863150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _ouseIcons_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bcd4d08d45652130800000000000000
+      internalID: 3541348065545084083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _ouseIcons_20
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f464192d99572bf0800000000000000
+      internalID: -349211914563984143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _ouseIcons_22
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956df2bed06633b40800000000000000
+      internalID: 5418786986623227481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _ouseIcons_24
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6a9dae12d215f70800000000000000
+      internalID: 9174163539627714270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _ouseIcons_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c879e70d6317230800000000000000
+      internalID: 3634746643369659472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _ouseIcons_40
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 067c1d2117492b820800000000000000
+      internalID: 2932569520739567456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _ouseIcons_42
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9efa35bab13c127d0800000000000000
+      internalID: -2944858157717671959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _ouseIcons_44
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76aba0cae725f810800000000000000
+      internalID: 1798387515412686459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _ouseIcons_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9472011c65790090800000000000000
+      internalID: -8067788150455241569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _ouseIcons_55
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ae6d799542549a0800000000000000
+      internalID: -6249548940688561626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _ouseIcons_56
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3afe46c8df93a9c90800000000000000
+      internalID: -7162348496234418269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _ouseIcons_57
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbdb6a77127e4c0d0800000000000000
+      internalID: -3403341287457899076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _ouseIcons_58
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 494648ee3f2d38440800000000000000
+      internalID: 4937021561648735380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _ouseIcons_59
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 380a56c0f4ae0d660800000000000000
+      internalID: 7408679012255768707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _ouseIcons_60
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57cd523eb5ff878b0800000000000000
+      internalID: -5154089003407516555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _ouseIcons_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 551d7257be2cd9740800000000000000
+      internalID: 5160495064575103317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _ouseIcons_63
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e17271e7ddd27620800000000000000
+      internalID: 2770520640056357349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _ouseIcons_65
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d0a26aa4bccd6a0800000000000000
+      internalID: -6423035447061377733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _ouseIcons_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd16e2180ecb9940800000000000000
+      internalID: 5304059520231022007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _ouseIcons_75
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3577f273bc6a2a0800000000000000
+      internalID: -6726465555551267843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

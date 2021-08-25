@@ -1,0 +1,298 @@
+fileFormatVersion: 2
+guid: 89bad999274e79945b97e0122496f19f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2857231490776680268
+    second: Skeleton Dead_0
+  - first:
+      213: -4556957111438124803
+    second: Skeleton Dead_1
+  - first:
+      213: 8229228023718284102
+    second: Skeleton Dead_2
+  - first:
+      213: -6944830649617365068
+    second: Skeleton Dead_3
+  - first:
+      213: -1970192786815392063
+    second: Skeleton Dead_4
+  - first:
+      213: 2483693351843143494
+    second: Skeleton Dead_5
+  - first:
+      213: 6466916566069523921
+    second: Skeleton Dead_6
+  - first:
+      213: 3101976986349042786
+    second: Skeleton Dead_7
+  - first:
+      213: -926204492896737425
+    second: Skeleton Dead_8
+  - first:
+      213: -7914734902640995259
+    second: Skeleton Dead_9
+  - first:
+      213: -4228536494974795197
+    second: Skeleton Dead_10
+  - first:
+      213: -6434160970422584577
+    second: Skeleton Dead_11
+  - first:
+      213: 4545027865677980425
+    second: Skeleton Dead_12
+  - first:
+      213: -6589485293158612270
+    second: Skeleton Dead_13
+  - first:
+      213: 7046719443616025468
+    second: Skeleton Dead_14
+  - first:
+      213: -8648105759978941398
+    second: Skeleton Dead_15
+  - first:
+      213: -5781592100170912744
+    second: Skeleton Dead_16
+  - first:
+      213: 2310587260497813281
+    second: Skeleton Dead_17
+  - first:
+      213: 2198027132570139386
+    second: Skeleton Dead_18
+  - first:
+      213: -776542108943258994
+    second: Skeleton Dead_19
+  - first:
+      213: 302448686463921799
+    second: Skeleton Dead_20
+  - first:
+      213: -4176863011393641194
+    second: Skeleton Dead_21
+  - first:
+      213: 6305688047308992063
+    second: Skeleton Dead_22
+  - first:
+      213: 9032387499326322468
+    second: Skeleton Dead_23
+  - first:
+      213: -3606307317130429223
+    second: Skeleton Dead_24
+  - first:
+      213: 750601317595926611
+    second: Skeleton Dead_25
+  - first:
+      213: -3668671617998935185
+    second: Skeleton Dead_26
+  - first:
+      213: 9020833512486988729
+    second: Skeleton Dead_27
+  - first:
+      213: -5704740506906422503
+    second: Skeleton Dead_28
+  - first:
+      213: -7810341143164701378
+    second: Skeleton Dead_29
+  - first:
+      213: -2703653105585457848
+    second: Skeleton Dead_30
+  - first:
+      213: -1699954506130130857
+    second: Skeleton Dead_31
+  - first:
+      213: 8299264839010673094
+    second: Skeleton Dead_32
+  - first:
+      213: -2947885821659452753
+    second: Skeleton Dead_33
+  - first:
+      213: 5061383207476193211
+    second: Skeleton Dead_34
+  - first:
+      213: -8149189697055209165
+    second: Skeleton Dead_35
+  - first:
+      213: 6164810548329707463
+    second: Skeleton Dead_36
+  - first:
+      213: -2004574579149742047
+    second: Skeleton Dead_37
+  - first:
+      213: 7945968813114773175
+    second: Skeleton Dead_38
+  - first:
+      213: -3661444188170781913
+    second: Skeleton Dead_39
+  - first:
+      213: 2055884403324308797
+    second: Skeleton Dead_40
+  - first:
+      213: -8322106650120879722
+    second: Skeleton Dead_41
+  - first:
+      213: -7628632819079329829
+    second: Skeleton Dead_42
+  - first:
+      213: -2458742420723697076
+    second: Skeleton Dead_43
+  - first:
+      213: 1698559415872322841
+    second: Skeleton Dead_44
+  - first:
+      213: -5874562927581448956
+    second: Skeleton Dead_45
+  - first:
+      213: 298672168412904751
+    second: Skeleton Dead_46
+  - first:
+      213: -9012412715796084618
+    second: Skeleton Dead_47
+  - first:
+      213: 1853593152101955964
+    second: Skeleton Dead_48
+  - first:
+      213: -7345719912857659551
+    second: Skeleton Dead_49
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Skeleton Dead_13
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 0
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d2ce98d9027d84a0800000000000000
+      internalID: -6589485293158612270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Dead_18
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 0
+        width: 30
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa738b0806f08e10800000000000000
+      internalID: 2198027132570139386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
