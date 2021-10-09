@@ -158,7 +158,7 @@ public class PlayerController : MonoBehaviour
 		isMenuOpen = false;
 
 		// Transfer to GameManager later
-		DataGlobal data = SaveSystem.LoadData();
+		DataGlobal data = SaveSystem.LoadData(Global.profileLoaded.ToString());
 
 		if(data != null){
 			Global.dashCollected = data.hasDash;

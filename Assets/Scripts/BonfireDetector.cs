@@ -50,7 +50,7 @@ public class BonfireDetector : MonoBehaviour
 		Global.life = Global.maxLife;
 		Global.mana = Global.maxMana;
 		
-		// perdao (explicacao no script "enemy")
+		// Procurar o numero da bonfire usada na string do nome da bonfire
 		int i;
 		for(i = 0; i < this.gameObject.name.Length; i++){
             if(this.gameObject.name[i] == '('){
@@ -64,7 +64,7 @@ public class BonfireDetector : MonoBehaviour
         }
             	
 
-        SaveSystem.SaveData();
+        SaveSystem.SaveData(Global.profileLoaded.ToString());
         Debug.Log("Saved!");
 
         ResurrectEnemies();

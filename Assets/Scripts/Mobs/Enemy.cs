@@ -26,7 +26,7 @@ public class Enemy : MonoBehaviour
 
 
     private string randSound;
-    private int releaseSound = 0;
+    //private int releaseSound = 0;
     public void DealDamage(float damage)
     {
     	enemyLife -= damage;
@@ -46,7 +46,7 @@ public class Enemy : MonoBehaviour
             //if(releaseSound == 3){
                 randSound = Random.Range(1, 4).ToString();
                 audioManager.Play("BossScreech" + randSound);
-                Debug.Log(randSound);
+                //Debug.Log(randSound);
             //}
         }
     }

@@ -40,6 +40,8 @@ public static class Global
 
 	/* END */
 
-
+	/* SAVE SYSTEM COMPONENTS */
    	public static int lastBonfire;
+	public static int profileLoaded;
+	/* END */
 }

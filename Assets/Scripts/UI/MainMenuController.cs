@@ -13,11 +13,17 @@ public class MainMenuController : MonoBehaviour
 
 	[SerializeField] private GameObject MainMenu;
 	[SerializeField] private GameObject OptionsMenu;
+	[SerializeField] private GameObject LoadMenu;
 	private Resolution[] resolutions;
 
 	public GameObject pauseFirstButton; 
 	public GameObject optionsFirstButton; 
 	public GameObject optionsClosedButton;
+
+	public GameObject loadFirstButton; 
+	public GameObject loadCloseButton;
+
+	public GameObject profilesFirstButton;
 
 	public TMPro.TMP_Dropdown resolutionDropdown;
 
@@ -45,13 +51,10 @@ public class MainMenuController : MonoBehaviour
 		resolutionDropdown.AddOptions(options);
 		resolutionDropdown.value = currentResolutionIndex;
 		resolutionDropdown.RefreshShownValue();
-		
-
-		MainMenu.SetActive(true);
-		OptionsMenu.SetActive(false);
 
 		EventSystem.current.SetSelectedGameObject(null);
 		EventSystem.current.SetSelectedGameObject(pauseFirstButton);
+
 	}
 
 	public void SetResolution(int resolutionIndex){
@@ -63,8 +66,10 @@ public class MainMenuController : MonoBehaviour
 	}
 
     public void PlayButton(){
-    	SceneManager.LoadScene(1);
-    	//Debug.Log("For now going to SampleScene");
+    	MainMenu.SetActive(false);
+		LoadMenu.SetActive(true);
+		EventSystem.current.SetSelectedGameObject(null);
+		EventSystem.current.SetSelectedGameObject(profilesFirstButton);
     }
 
     public void QuitButton(){
@@ -86,6 +91,13 @@ public class MainMenuController : MonoBehaviour
 		EventSystem.current.SetSelectedGameObject(optionsClosedButton);
     }
 
+	public void ReturnLoadButton(){
+    	LoadMenu.SetActive(false);
+    	MainMenu.SetActive(true);
+    	EventSystem.current.SetSelectedGameObject(null);
+		EventSystem.current.SetSelectedGameObject(loadCloseButton);
+    }
+
     public void SetVolume(float volume){
     	audioMixer.SetFloat("MasterVolume", volume);
     }
@@ -93,5 +105,17 @@ public class MainMenuController : MonoBehaviour
     public void ToggleFullscreen(bool isFullscreen){
 		Screen.fullScreen = isFullscreen;
 		Global.isFullscreen = isFullscreen;
+	}
+
+	public void LoadProfile(){
+		int prof = int.Parse(EventSystem.current.currentSelectedGameObject.name[7].ToString());
+		Global.profileLoaded = prof;
+		SceneManager.LoadScene(1);
+	}
+
+	public void DeleteProfile(){
+		int prof = int.Parse(EventSystem.current.currentSelectedGameObject.name[7].ToString());
+		string path = Application.persistentDataPath + "/data" + prof + ".txt";
+		SaveSystem.DeleteSaveData(path);
 	}
 }
